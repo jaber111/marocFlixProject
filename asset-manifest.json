@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marocFlixProject/static/css/main.e7c155a4.chunk.css",
-    "main.js": "/marocFlixProject/static/js/main.be3ec422.chunk.js",
-    "main.js.map": "/marocFlixProject/static/js/main.be3ec422.chunk.js.map",
+    "main.js": "/marocFlixProject/static/js/main.2efee1f3.chunk.js",
+    "main.js.map": "/marocFlixProject/static/js/main.2efee1f3.chunk.js.map",
     "runtime-main.js": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js",
     "runtime-main.js.map": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js.map",
     "static/js/2.72a3fba9.chunk.js": "/marocFlixProject/static/js/2.72a3fba9.chunk.js",
     "static/js/2.72a3fba9.chunk.js.map": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.map",
     "index.html": "/marocFlixProject/index.html",
-    "precache-manifest.6bb2974435cfa974e7056dfd4620b231.js": "/marocFlixProject/precache-manifest.6bb2974435cfa974e7056dfd4620b231.js",
+    "precache-manifest.c3da0171bfb67668520c95a23cad9d84.js": "/marocFlixProject/precache-manifest.c3da0171bfb67668520c95a23cad9d84.js",
     "service-worker.js": "/marocFlixProject/service-worker.js",
     "static/css/main.e7c155a4.chunk.css.map": "/marocFlixProject/static/css/main.e7c155a4.chunk.css.map",
     "static/js/2.72a3fba9.chunk.js.LICENSE.txt": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e8ae4a43.js",
     "static/js/2.72a3fba9.chunk.js",
     "static/css/main.e7c155a4.chunk.css",
-    "static/js/main.be3ec422.chunk.js"
+    "static/js/main.2efee1f3.chunk.js"
   ]
 }

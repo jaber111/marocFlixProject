@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26da0df867b4de547736c9aa2073d1f0",
+    "revision": "2059248669bd0d957a76ce87f0719a3e",
     "url": "/marocFlixProject/index.html"
   },
   {
-    "revision": "862933048244f6a961b8",
+    "revision": "fae7c69fb650398346fe",
     "url": "/marocFlixProject/static/css/main.e7c155a4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "862933048244f6a961b8",
-    "url": "/marocFlixProject/static/js/main.be3ec422.chunk.js"
+    "revision": "fae7c69fb650398346fe",
+    "url": "/marocFlixProject/static/js/main.2efee1f3.chunk.js"
   },
   {
     "revision": "63fb227cb169843b33eb",
