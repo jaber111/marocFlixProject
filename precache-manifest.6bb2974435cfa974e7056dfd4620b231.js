@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ea5ae5cd91e7aad73c7e3e165b20c54",
+    "revision": "26da0df867b4de547736c9aa2073d1f0",
     "url": "/marocFlixProject/index.html"
   },
   {

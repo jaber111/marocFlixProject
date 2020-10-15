@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marocFlixProject/precache-manifest.8e54815e6846845650db5894d55d691f.js"
+  "/marocFlixProject/precache-manifest.6bb2974435cfa974e7056dfd4620b231.js"
 );
 
 self.addEventListener('message', (event) => {
