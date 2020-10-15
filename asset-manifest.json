@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/marocFlixProject/static/css/main.e7c155a4.chunk.css",
-    "main.js": "/marocFlixProject/static/js/main.2efee1f3.chunk.js",
-    "main.js.map": "/marocFlixProject/static/js/main.2efee1f3.chunk.js.map",
+    "main.css": "/marocFlixProject/static/css/main.6685379d.chunk.css",
+    "main.js": "/marocFlixProject/static/js/main.24be2a53.chunk.js",
+    "main.js.map": "/marocFlixProject/static/js/main.24be2a53.chunk.js.map",
     "runtime-main.js": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js",
     "runtime-main.js.map": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js.map",
-    "static/js/2.72a3fba9.chunk.js": "/marocFlixProject/static/js/2.72a3fba9.chunk.js",
-    "static/js/2.72a3fba9.chunk.js.map": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.map",
+    "static/js/2.26cf1a8a.chunk.js": "/marocFlixProject/static/js/2.26cf1a8a.chunk.js",
+    "static/js/2.26cf1a8a.chunk.js.map": "/marocFlixProject/static/js/2.26cf1a8a.chunk.js.map",
     "index.html": "/marocFlixProject/index.html",
-    "precache-manifest.c3da0171bfb67668520c95a23cad9d84.js": "/marocFlixProject/precache-manifest.c3da0171bfb67668520c95a23cad9d84.js",
+    "precache-manifest.738fc849324f0209bbaba85a073b5bc0.js": "/marocFlixProject/precache-manifest.738fc849324f0209bbaba85a073b5bc0.js",
     "service-worker.js": "/marocFlixProject/service-worker.js",
-    "static/css/main.e7c155a4.chunk.css.map": "/marocFlixProject/static/css/main.e7c155a4.chunk.css.map",
-    "static/js/2.72a3fba9.chunk.js.LICENSE.txt": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.LICENSE.txt"
+    "static/css/main.6685379d.chunk.css.map": "/marocFlixProject/static/css/main.6685379d.chunk.css.map",
+    "static/js/2.26cf1a8a.chunk.js.LICENSE.txt": "/marocFlixProject/static/js/2.26cf1a8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8ae4a43.js",
-    "static/js/2.72a3fba9.chunk.js",
-    "static/css/main.e7c155a4.chunk.css",
-    "static/js/main.2efee1f3.chunk.js"
+    "static/js/2.26cf1a8a.chunk.js",
+    "static/css/main.6685379d.chunk.css",
+    "static/js/main.24be2a53.chunk.js"
   ]
 }
