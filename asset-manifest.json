@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jaber111/marocFlixProject/static/css/main.e7c155a4.chunk.css",
-    "main.js": "/jaber111/marocFlixProject/static/js/main.e2cdc320.chunk.js",
-    "main.js.map": "/jaber111/marocFlixProject/static/js/main.e2cdc320.chunk.js.map",
-    "runtime-main.js": "/jaber111/marocFlixProject/static/js/runtime-main.31f95e15.js",
-    "runtime-main.js.map": "/jaber111/marocFlixProject/static/js/runtime-main.31f95e15.js.map",
-    "static/js/2.72a3fba9.chunk.js": "/jaber111/marocFlixProject/static/js/2.72a3fba9.chunk.js",
-    "static/js/2.72a3fba9.chunk.js.map": "/jaber111/marocFlixProject/static/js/2.72a3fba9.chunk.js.map",
-    "index.html": "/jaber111/marocFlixProject/index.html",
-    "precache-manifest.4d0d9a1c3718f546c6a31e6a6515f952.js": "/jaber111/marocFlixProject/precache-manifest.4d0d9a1c3718f546c6a31e6a6515f952.js",
-    "service-worker.js": "/jaber111/marocFlixProject/service-worker.js",
-    "static/css/main.e7c155a4.chunk.css.map": "/jaber111/marocFlixProject/static/css/main.e7c155a4.chunk.css.map",
-    "static/js/2.72a3fba9.chunk.js.LICENSE.txt": "/jaber111/marocFlixProject/static/js/2.72a3fba9.chunk.js.LICENSE.txt"
+    "main.css": "/marocFlixProject/static/css/main.e7c155a4.chunk.css",
+    "main.js": "/marocFlixProject/static/js/main.be3ec422.chunk.js",
+    "main.js.map": "/marocFlixProject/static/js/main.be3ec422.chunk.js.map",
+    "runtime-main.js": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js",
+    "runtime-main.js.map": "/marocFlixProject/static/js/runtime-main.e8ae4a43.js.map",
+    "static/js/2.72a3fba9.chunk.js": "/marocFlixProject/static/js/2.72a3fba9.chunk.js",
+    "static/js/2.72a3fba9.chunk.js.map": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.map",
+    "index.html": "/marocFlixProject/index.html",
+    "precache-manifest.8e54815e6846845650db5894d55d691f.js": "/marocFlixProject/precache-manifest.8e54815e6846845650db5894d55d691f.js",
+    "service-worker.js": "/marocFlixProject/service-worker.js",
+    "static/css/main.e7c155a4.chunk.css.map": "/marocFlixProject/static/css/main.e7c155a4.chunk.css.map",
+    "static/js/2.72a3fba9.chunk.js.LICENSE.txt": "/marocFlixProject/static/js/2.72a3fba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31f95e15.js",
+    "static/js/runtime-main.e8ae4a43.js",
     "static/js/2.72a3fba9.chunk.js",
     "static/css/main.e7c155a4.chunk.css",
-    "static/js/main.e2cdc320.chunk.js"
+    "static/js/main.be3ec422.chunk.js"
   ]
 }
